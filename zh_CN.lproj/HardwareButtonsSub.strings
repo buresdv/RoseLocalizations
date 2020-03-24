@@ -14,7 +14,6 @@
 
   "CUSTOM_VOLUME_STRENGTH" = "自定义 调整音量 反馈力度";
   "CUSTOM_SLEEP_BUTTON_STRENGTH" = "自定义 仅按压Sleep Button 反馈力度";
-  "CUSTOM_HOME_BUTTON_STRENGTH" = "自定义 按压Home Button或者Sleep Button 反馈力度";
   "CUSTOM_RINGER_STRENGTH" = "自定义 静音 反馈力度";
 
   "NONE" = "默认";
