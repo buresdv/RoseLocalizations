@@ -7,8 +7,8 @@
 
   "RESUMING_OR_PAUSING_SONG" = "음악 재생/일시정지";
   "MINI_PLAYER_RESUMING_OR_PAUSING_SONG" = "Mini-Player 음악 재생/일시정지";
-  "GOING_TO_PREVIOUS_SONG" = "이전 곡 재생";
-  "SKIPPING_SONG" = "다음 곡 재생";
+  "GOING_TO_PREVIOUS_SONG" = "이전 곡 터치";
+  "SKIPPING_SONG" = "다음 곡 터치";
   "TAPPING_REPEAT_BUTTON" = "반복재생 터치";
   "TAPPING_SHUFFLE_BUTTON" = "셔플재생 터치";
   "TAPPING_QUEUE_BUTTON" = "Queue 터치";
