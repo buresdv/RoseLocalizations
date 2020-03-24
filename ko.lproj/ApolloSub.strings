@@ -8,14 +8,14 @@
   "TAPPING_THE_JUMP_BAR" = "Jump Bar 터치";
   "TAPPING_THE_FLOATING_BUTTON" = "Floating Button 터치";
   "TAPPING_MOST_ELEMENTS" = "Most Elements 터치";
-  "TAPPING_UIBUTTON_ELEMENTS" = "UIButton Elements 터치";
+  "TAPPING_UIBUTTON_ELEMENTS" = "UI Button Elements 터치";
 
   "CUSTOM_STRENGTH_SETTINGS" = "맞춤 강도 설정";
 
   "CUSTOM_JUMP_BAR_STRENGTH" = "Jump Bar 강도";
   "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Floating Button 강도";
   "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Certain Elements 강도";
-  "CUSTOM_UIBUTTON_STRENGTH" = "UIButton 강도";
+  "CUSTOM_UIBUTTON_STRENGTH" = "UI Button 강도";
 
   "NONE" = "없음";
   "LIGHT_HAPTIC_ENGINE" = "가벼운: Haptic Engine";
