@@ -20,7 +20,7 @@
   "USE_HAPTIC_ENGINE" = "Haptic Engine 사용";
 
   "LEGACY_SUPPORT" = "Legacy 지원";
-  "IPHONE_SE_OR_6_AND_SO_FAR" = "iPhone SE/6..";
+  "IPHONE_SE_OR_6_AND_SO_FAR" = "iPhone 6s/6s+ 이전 모델, iPhone SE (일반 진동 모터 탑재 모델)";
   "USE_LEGACY_ENGINE" = "Legacy Engine 사용";
   "CUSTOM_LEGACY_SETTINGS" = "맞춤 Legacy 설정";
   
