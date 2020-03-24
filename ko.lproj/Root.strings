@@ -44,7 +44,7 @@
   "OTHER_OPTIONS" = "다른 옵션";
   "RESPRING" = "리스프링";
   "RESET_PREFERENCES" = "설정 리셋";
-  "SHOW_SETUP_AGAIN" = "Rose 설정 다시 진입";
+  "SHOW_SETUP_AGAIN" = "Rose 설정 재진입";
   
   "SENDING_LOVE_TO" = "Sending Love To";
   "THANKS_KRITANTA_FOR_THE_PRETTY_TWITTER_CELLS" = "Thanks kritanta For The Pretty Twitter Cells";
@@ -64,7 +64,7 @@ ARTWORKS_BY_TAKI" = "Rose By Litten
 Artworks By taki";
 
   "LITTLE_DONATION_🌺" = "작은 기부 🌺";
-  "APPRECIATED_💘" = "고맙겠습니다 💘";
+  "APPRECIATED_💘" = "감사하겠습니다 💘";
   "FEATURE_REQUEST?_✨" = "새로운 기능 요청? ✨";
   "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "요청사항과 함께 이메일로 보내주세요(영어로)";
   "SOURCE_CODE_🌙" = "소스코드 🌙";
