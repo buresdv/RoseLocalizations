@@ -16,7 +16,7 @@
   "CUSTOM_LIKE_BUTTON_STRENGTH" = "좋아요 강도";
   "CUSTOM_DOUBLE_TAP_TO_LIKE_STRENGTH" = "이중탭 좋아요 강도";
   "CUSTOM_COMMENT_BUTTON_STRENGTH" = "댓글 강도";
-  "CUSTOM_SAVE_BUTTON_STRENGTH" = "저장 버튼 강도"
+  "CUSTOM_SAVE_BUTTON_STRENGTH" = "저장 버튼 강도";
   "CUSTOM_SEND_BUTTON_STRENGTH" = "보내기 버튼 강도";
 
   "NONE" = "없음";
