@@ -1,0 +1,11 @@
+{
+
+  "ENABLE_EXCEPTIONS_SECTION" = "Zapnout experimentální funkce";
+  "ENABLE_SECTION" = "Zapnout oddíl";
+
+  "DISABLE_FEEDBACK_WHEN" = "Vypnout vibrace, když...";
+
+  "LOW_POWER_MODE_IS_ON" = "Je zapnutý režim nízké spotøeby";
+  "DND_IS_ACTIVE" = "Je zapnutý režim Nerušit";
+
+}

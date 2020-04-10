@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_FACEBOOK_SUPPORT" = "Zapnout pro Facebook";
+  "FACEBOOK_SUPPORT" = "Podpora Facebooku";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "USING_THE_TABBAR" = "Použití øádku panelù";
+  "TAPPING_QUICK_ACCESS_BUTTONS" = "Klepnutí na tlaèítka rychlého pøístupu";
+  "TAPPING_NAVIGATION_BAR_BUTTONS" = "Klepnutí na tlaèítka v navigaèním panelu";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_TABBAR_STRENGTH" = "Pro øádek panelù";
+  "CUSTOM_QUICK_ACCESS_BUTTONS_STRENGTH" = "Pro tlaèítka rychlého pøístupu";
+  "CUSTOM_NAVIGATION_BAR_BUTTONS_STRENGTH" = "Pro tlaèítka v navigaèním panelu";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

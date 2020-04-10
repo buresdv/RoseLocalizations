@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_TWITTER_SUPPORT" = "Zapnout pro Twitter";
+  "TWITTER_SUPPORT" = "Podpora Twitteru";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "USING_TABBAR" = "Použití øádku panelù";
+  "TAPPING_ON_A_TWEET" = "Klepnutí na tweet";
+  "TAPPING_A_DM_CHAT" = "Otevøení soukromé zprávy";
+  "TAPPING_ON_A_NOTIFICATION" = "Klepnutí na oznámení";
+  "USING_THE_FLOATING_TWEET_BUTTON" = "Klepnutí na plovoucí tlaèítko";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_TABBAR_STRENGTH" = "Pro øádek panelù";
+  "CUSTOM_TWEET_STRENGTH" = "Pro klepnutí na tweet";
+  "CUSTOM_DM_STRENGTH" = "Pro otevøení soukromé zprávy";
+  "CUSTOM_NOTIFICATION_STRENGTH" = "Pro klepnutí na oznámení";
+  "CUSTOM_FLOATING_TWEET_BUTTON_STRENGTH" = "Pro klepnutí na plovoucí tlaèítko";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

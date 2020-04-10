@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_INSTAGRAM_SUPPORT" = "Zapnout pro Instagram";
+  "INSTAGRAM_SUPPORT" = "Podpora Instagramu";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "TAPPING_LIKE_BUTTON" = "Klepnutí na tlaèítko To se mi líbí";
+  "DOUBLE_TAPPING_TO_LIKE" = "Poklepání na obrázek";
+  "TAPPING_COMMENT_BUTTON" = "Klepnutí na tlaèítko Pøidat komentáø";
+  "TAPPING_SAVE_BUTTON" = "Klepnutí na tlaèítko Uložit";
+  "TAPPING_SEND_BUTTON" = "Klepnutí na tlaèítko Poslat zprávu";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "Pro tlaèítko To se mi líbí";
+  "CUSTOM_DOUBLE_TAP_TO_LIKE_STRENGTH" = "Pro poklepání na obrázek";
+  "CUSTOM_COMMENT_BUTTON_STRENGTH" = "Pro tlaèítko Pøidat komentáø";
+  "CUSTOM_SAVE_BUTTON_STRENGTH" = "Pro tlaèítko Uložit";
+  "CUSTOM_SEND_BUTTON_STRENGTH" = "Pro tlaèítko Poslat zprávu";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

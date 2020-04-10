@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_OTHER_HARDWARE_ACTION_SECTION" = "Zapnout pro další hardwarové akce";
+  "ENABLE_SECTION" = "Zapnout oddíl";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "DISPLAY_WAKES" = "Probuzení displeje";
+  "CHARGER_PLUGGED_IN_OR_OUT" = "Pøipojení/odpojení nabíjeèky";
+  "CONNECTING_BLUETOOTH_DEVICE_IN_SETTINGS" = "Pøipojení Bluetooth zaøízení v Nastavení";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_WAKE_STRENGTH" = "Pro probuzení displeje";
+  "CUSTOM_PLUGGED_STRENGTH" = "Pro pøipojení/odpojení nabíjeèky";
+  "CUSTOM_BLUETOOTH_CONNECT_STRENGTH" = "Pro pøopojení Bluetooth zaøízení";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

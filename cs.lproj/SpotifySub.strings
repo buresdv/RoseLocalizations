@@ -1,0 +1,44 @@
+{
+
+  "ENABLE_SPOTIFY_SUPPORT" = "Zapnout pro Spotify";
+  "SPOTIFY_SUPPORT" = "Podpora Spotify";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "RESUMING_OR_PAUSING_SONG" = "Zapnutí/vypnutí pøehrávání";
+  "MINI_PLAYER_RESUMING_OR_PAUSING_SONG" = "Zapnutí/vypnutí pøehrávání mimo aplikaci";
+  "GOING_TO_PREVIOUS_SONG" = "Spuštìní pøedchozí skladby";
+  "SKIPPING_SONG" = "Pøeskoèení skladby";
+  "TAPPING_REPEAT_BUTTON" = "Klepnutí na tlaèítko Opakovat";
+  "TAPPING_SHUFFLE_BUTTON" = "Klepnutí na tlaèítko Zamíchat";
+  "TAPPING_QUEUE_BUTTON" = "Klepnutí na tlaèítko Fronta";
+  "USING_TIME_SLIDER" = "Použití jezdce èasu";
+  "TAPPING_LIKE_BUTTON" = "Klepnutí na tlaèítko To se mi líbí";
+  "TAPPING_DEVICES_BUTTON" = "Klepnutí na seznam zaøízení";
+  "TAPPING_SONG_LABEL" = "Klepnutí na skladbu";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_PLAY_BUTTON_STRENGTH" = "Pøi zapnutí/vypnutí pøehrávání";
+  "CUSTOM_MINI_PLAYER_PLAY_BUTTON_STRENGTH" = "Pøi zapnutí/vypnutí pøehrávání mimo aplikaci";
+  "CUSTOM_PREVIOUS_TRACK_BUTTON_STRENGTH" = "Pøi spuštìní pøedchozí skladby";
+  "CUSTOM_SKIP_BUTTON_STRENGTH" = "Pøi pøeskoèení skladby";
+  "CUSTOM_REPEAT_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko Opakovat";
+  "CUSTOM_SHUFFLE_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko Zamíchat";
+  "CUSTOM_QUEUE_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko Fronta";
+  "CUSTOM_TIME_SLIDER_STRENGTH" = "Pøi klepnutí na jezdce èasu";
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko To se mi líbí";
+  "CUSTOM_DEVICES_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko Zaøízení";
+  "CUSTOM_LABEL_STRENGTH" = "Pøi klepnutí na skladbu";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

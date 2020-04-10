@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_SILEO_SUPPORT" = "Zapnout pro Sileo";
+  "SILEO_SUPPORT" = "Podpora Silea";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "TAPPING_SOURCE_CELL" = "Klepnutí na tlaèítko Zdroj";
+  "TAPPING_PACKAGE_CELL" = "Klepnutí na tlaèítko Balíèek";
+  "TAPPING_TABLE_VIEW_CELL" = "Klepnutí na tabulku";
+  "TAPPING_FEATURED_BANNER" = "Klepnutí na tlaèítko Doporuèené";
+  "TAPPING_DOWNLOAD_CONFIRM_BUTTON" = "Potvrzení stahování";
+  "TAPPING_GET_BUTTON" = "Klepnutí na tlaèítko Stáhnout";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_SOURCE_CELL_STRENGTH" = "Pøi klepnutí na tlaèítko Zdroj";
+  "CUSTOM_PACKAGE_CELL_STRENGTH" = "Pøi klepnutí na tlaèítko Balíèek";
+  "CUSTOM_TABLE_VIEW_CELL_STRENGTH" = "Pøi klepnutí na tabulku";
+  "CUSTOM_FEATURED_BANNER_STRENGTH" = "Pøi klepnutí na tlaèítko Doporuèené";
+  "CUSTOM_DOWNLOAD_CONFIRM_BUTTON_STRENGTH" = "Pøi potvrzení stahování";
+  "CUSTOM_GET_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko Stáhnout";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

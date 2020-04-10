@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_PHONE_SUPPORT" = "Zapnout pro Telefon";
+  "PHONE_SUPPORT" = "Podpora Telefonu";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "TAPPING_DIALER_NUMBER_PAD_BUTTON" = "Vytáèení èísla";
+  "TAPPING_CONTACTS_CELL" = "Klepnutí na Kontakty";
+  "TAPPING_DIALER_DELETE_BUTTON" = "Mazání telefonního èísla";
+  "TAPPING_DIALER_CALL_BUTTON" = "Zahájení hovoru";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_DIALER_NUMBER_PAD_STRENGTH" = "Pøi vytáèení èísla";
+  "CUSTOM_CONTACT_CELL_STRENGTH" = "Pøi klepnutí na Kontakty";
+  "CUSTOM_DIALER_DELETE_BUTTON_STRENGTH" = "Pøi mazání telefonního èísla";
+  "CUSTOM_DIALER_CALL_BUTTON_STRENGTH" = "Pøi zahájení hovoru";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

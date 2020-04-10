@@ -1,0 +1,46 @@
+{
+
+  "ENABLE_ANYWHERE_SECTION" = "Zapnout pro rùzné èásti systému";
+  "ENABLE_SECTION" = "Zapnout oddíl";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "KILLING_APP" = "Zabití aplikace";
+  "APP_SWITCHER_IS_USED" = "Otevøení pøepínaèe aplikací";
+  "CALLING_SIRI" = "Zavolání Siri";
+  "TAKING_SCREENSHOT" = "Poøízení snímku obrazovky";
+  "BEGIN_OR_END_REACHABILITY" = "Zapnutí/vypnutí funkce Dosah";
+  "USING_TEXT_SELECTION" = "Výbìru textu";
+  "ENTERING_POWER_DOWN_VIEW" = "Zobrazení nabídky pro vypnutí";
+  "RESPRINING" = "Respringu";
+  "TYPING" = "Psaní";
+  "ENTERING_HOMESCREEN" = "Zobrazení plochy";
+  "ALERT_APPEARS" = "Zobrazení upozornìní";
+  "ALERT_DISAPPEARS" = "Zmizení upozornìní";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_KILLING_STRENGTH" = "Pøi zabití aplikace";
+  "CUSTOM_SWITCHER_STRENGTH" = "Pøi otevøení pøepínaèe aplikací";
+  "CUSTOM_SIRI_STRENGTH" = "Pøi zavolání Siri";
+  "CUSTOM_SCREENSHOT_STRENGTH" = "Pøi poøízení snímku obrazovky";
+  "CUSTOM_REACHABILITY_STRENGTH" = "Pøi zapnutí/vypnutí funkce Dosah";
+  "CUSTOM_TEXT_SELECTION_STRENGTH" = "Pøi výbìru textu";
+  "CUSTOM_POWER_DOWN_VIEW_STRENGTH" = "Pøi zobrazení nabídky pro vypnutí";
+  "CUSTOM_RESPRING_STRENGTH" = "Pøi respringu";
+  "CUSTOM_TYPING_STRENGTH" = "Pøi psaní";
+  "CUSTOM_ENTERING_HOMESCREEN_STRENGTH" = "Pøi zobrazení plochy";
+  "CUSTOM_ALERT_APPEARING_STRENGTH" = "Pøi zobrazení upozornìní";
+  "CUSTOM_ALERT_DISAPPEARING_STRENGTH" = "Pøi zmizení upozornìní";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

@@ -1,0 +1,77 @@
+{
+
+  "ROSE" = "Rose";
+
+  "LIGHT" = "Mírná";
+  "MEDIUM" = "Střední";
+  "HEAVY" = "Silná";
+  "SOFT" = "Jemná";
+  "RIGID" = "Hrubá";
+  "STRONG" = "Silná";
+  "DEFAULT" = "Výchozí";
+  "CUSTOM" = "Vlastní";
+
+  "TAPTIC_ENGINE_STRENGTH" = "Intenzita Taptic Engline";
+  "IPHONE_7_OR_7PLUS_AND_UP" = "iPhone 7/7+ a novější";
+  "USE_TAPTIC_ENGINE" = "Použít Taptic Engline";
+
+  "HAPTIC_ENGINE_STRENGTH" = "Intenzita Haptic Engline";
+  "IPHONE_6S_OR_6SPLUS" = "iPhone 6s/6s Plus";
+  "USE_HAPTIC_ENGINE" = "Použít Taptic Engine";
+
+  "LEGACY_SUPPORT" = "Podpora starších zařízení";
+  "IPHONE_SE_OR_6_AND_SO_FAR" = "iPhone SE/6";
+  "USE_LEGACY_ENGINE" = "Použít starší verzi Engine";
+  "CUSTOM_LEGACY_SETTINGS" = "Upravit nastavení starších zařízení";
+  
+  "HAPTIC_FEEDBACK_OPTIONS" = "Nastavení haptické odezvy";
+  
+  "HOMESCREEN" = "Plocha";
+  "LOCKSCREEN" = "Zamknutá obrazovka";
+  "ANYWHERE" = "Různé části systému";
+  "HARDWARE_BUTTONS" = "Hardwarová tlačítka";
+  "CONTROL_CENTER" = "Ovládací centrum";
+  "STATUS_CHANGES" = "Změny stavu";
+  "OTHER_HARDWARE_ACTIONS" = "Další hardwarové akce";
+  "SYSTEM_WIDE" = "Celosystémové akce";
+  "APPLICATIONS" = "Aplikace";
+  "EXCEPTIONS" = "Výjimky";
+  "ADDITIONALS" = "Další";
+
+  "HAPTIC_DELAY_IN_SECONDS" = "Zpoždění haptické odezvy (v sekundách)";
+  "ENABLE_DELAY" = "Zapnout zpoždění";
+
+  "OTHER_OPTIONS" = "Další volby";
+  "RESPRING" = "Respringnout";
+  "RESET_PREFERENCES" = "Resetovat nastavení";
+  "SHOW_SETUP_AGAIN" = "Znovu projít prvotním nastavením";
+  
+  "SENDING_LOVE_TO" = "Posílám lásku k";
+  "THANKS_KRITANTA_FOR_THE_PRETTY_TWITTER_CELLS" = "Za design Twitterových buněk děkuji kritantě";
+
+  "CONTRIBUTORS_CREDITS" = "Testování a překlad";
+  "CONTRIBUTORS" = "Přispěvatelé";
+  "HELP_TRANSLATING_ROSE" = "Přeložte Rose";
+
+  "GIVE_THESE_A_LOOK" = "Podívejte se sem";
+  "LUNE_DESCRIPTION" = "Ukázat měsíček v režimu Nerušit";
+  "AESTEA_DESCRIPTION" = "Chybí vám Cream? Zkuste Aesteu";
+  "BUTTERFLY_DESCRIPTION" = "Výběr textu, zbarevněný";
+  
+  "SUPPORT_ME" = "Podpořte mně";
+  "ROSE_BY_LITTEN_
+ARTWORKS_BY_TAKI" = "Rose By Litten
+Artworks By taki";
+
+  "LITTLE_DONATION_🌺" = "Pošlete mi pět peněz ";
+  "APPRECIATED_💘" = "Děkuji ";
+  "FEATURE_REQUEST?_✨" = "Napadá vás něco, co bychom mohli přidat? ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Napiště mi o tom mailem";
+  "SOURCE_CODE_🌙" = "Zdrojový kód ";
+  "ITS_ON_MY_GITHUB" = "Je na mém GitHubu";
+  "FOUND_A_BUG?_🌧" = "Našli jste chybu? ";
+  "LEAVE_A_BUG_REPORT_HERE" = "Tady ji nahlaste";
+  
+  "MADE_WITH_💙" = "Naprogramováno s ";
+
+}

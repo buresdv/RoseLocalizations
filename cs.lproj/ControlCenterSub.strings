@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_CONTROL_CENTER_SECTION" = "Zapnout pro ovládací centrum";
+  "ENABLE_SECTION" = "Zapnout oddíl";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "TOGGLING_CONNECTIVITY_TOGGLE" = "Pøepínání pøipojení";
+  "OPENING_CONTROL_CENTER" = "Otevírání ovládacího centra";
+  "TOGGLING_CC_MODULE" = "Pøepínání OC modulu (experimentální)";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_CC_TOGGLE_STRENGTH" = "Pro pøepínání pøipojení";
+  "CUSTOM_OPEN_CONTROL_CENTER_STRENGTH" = "Pro otevírání ovládacího centra";
+  "CUSTOM_CC_MODULE_STRENGTH" = "Pro pøepínání OC modulu";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

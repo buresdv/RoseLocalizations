@@ -1,0 +1,29 @@
+{
+
+  "ENABLE_HARDWARE_BUTTONS_SECTION" = "Zapnout pro hardwarová tlaèítka";
+  "ENABLE_SECTION" = "Zapnout oddíl";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "VOLUME_CHANGED" = "Zmìnì hlasitosti";
+  "PRESSING_ONLY_SLEEP_BUTTON" = "Stisknutí jen tlaèítka spánku";
+  "PRESSING_HOME_OR_SLEEP_BUTTON" = "Stisknutí tlaèítka plochy a spánku";
+  "UNMUTING" = "Zapnutí zvuku";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_VOLUME_STRENGTH" = "Pro zmìnu hlasitosti";
+  "CUSTOM_SLEEP_BUTTON_STRENGTH" = "Pro tlaèítko spánku";
+  "CUSTOM_RINGER_STRENGTH" = "Pro zvonìní";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

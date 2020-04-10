@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_APOLLO_SUPPORT" = "Zapnout pro Apollo";
+  "APOLLO_SUPPORT" = "Podpora Apolla";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "TAPPING_THE_JUMP_BAR" = "Klepnutí na spodní øádek";
+  "TAPPING_THE_FLOATING_BUTTON" = "Klepnutí na plovoucí tlaèítko";
+  "TAPPING_MOST_ELEMENTS" = "Klepnutí na vìtšinu prvkù";
+  "TAPPING_UIBUTTON_ELEMENTS" = "Klepnutí na prvky UIButton";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_JUMP_BAR_STRENGTH" = "Upravit intenzitu pro spodní øádek";
+  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Upravit intenzitu pro plovoucí tlaèítko";
+  "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Upravit intenzitu pro urèité prvky";
+  "CUSTOM_UIBUTTON_STRENGTH" = "Upravit intenzitu pro prvky UIButton";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}

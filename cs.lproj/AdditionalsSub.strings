@@ -1,0 +1,10 @@
+{
+
+  "ENABLE_ADDITIONALS_SECTION" = "Zapnout další komponenty";
+  "ENABLE_SECTION" = "Zapnout oddíl";
+
+  "HAPTIC_ANIMATIONS" = "Haptické animace - Pouze zaøízení s Taptic Engline a iOS 13";
+
+  "HAPTIC_LOCK_ANIMATION" = "Animace haptického zámku";
+
+}

@@ -1,0 +1,40 @@
+{
+
+  "ENABLE_MUSIC_SUPPORT" = "Zapnout pro Hudbu";
+  "MUSIC_SUPPORT" = "Podpora Hudby";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Pøehrát haptickou odezvu, pøi...";
+
+  "TAPPING_MUSIC_CONTROL_BUTTONS" = "Klepnutí na ovládací tlaèítka";
+  "TAPPING_VOLUME_SLIDER" = "Klepnutí na jezdec hlasitosti";
+  "TAPPING_MORE_BUTTON" = "Klepnutí na tlaèítko Více";
+  "TAPPING_TIME_SLIDER" = "Klepnutí na jezdec èasu";
+  "TAPPING_SONG_CELL" = "Klepnutí na skladbu";
+  "TAPPING_LIBRARY_CELL" = "Klepnutí na knihovnu";
+  "TAPPING_ALBUM_CELL" = "Klepnutí na album";
+  "TAPPING_AIRPLAY_BUTTON" = "Klepnutí na tlaèítko AirPlay";
+  "TAPPING_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON" = "Klepnutí na tlaèítka Knihovna, Fronta, Pøehrát, Pøeskoèit a Pøedchozí";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Upravit intenzitu vibrací";
+
+  "CUSTOM_MUSIC_CONTROLS_STRENGTH" = "Pøi klepnutí na ovládací tlaèíta";
+  "CUSTOM_VOLUME_SLIDER_STRENGTH" = "Pøi klepnutí na jezdce hlasitosti";
+  "CUSTOM_MORE_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko Více";
+  "CUSTOM_TIME_SLIDER_STRENGTH" = "Pøi klepnutí na jezdce èasu";
+  "CUSTOM_SONG_CELL_STRENGTH" = "Pøi klepnutí na skladbu";
+  "CUSTOM_LIBRARY_CELL_STRENGTH" = "Pøi klepnutí na knihovnu";
+  "CUSTOM_ALBUM_CELL_STRENGTH" = "Pøi klepnutí na album";
+  "CUSTOM_AIRPLAY_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítko AirPlay";
+  "CUSTOM_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON_STRENGTH" = "Pøi klepnutí na tlaèítka Knihovna, Fronta, Pøehrát, Pøeskoèit a Pøedchozí";
+
+  "NONE" = "Nevibrovat";
+  "LIGHT_HAPTIC_ENGINE" = "Slabá: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Støední: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Silná: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Slabá: Taptic Engline";
+  "MEDIUM_TAPTIC_ENGINE" = "Støední. Taptic Engline";
+  "STRONG_TAPTIC_ENGINE" = "Silná: Taptic Engline";
+  "SOFT_TAPTIC_ENGINE" = "Jemná: Taptic Engline";
+  "RIGID_TAPTIC_ENGINE" = "Hrubá: Taptic Engline";
+
+}
